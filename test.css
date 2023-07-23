@@ -1,0 +1,27 @@
+/* *{
+            font-size: 38px;
+        } */
+        .tag{
+            text-align: center;
+            color: red;
+        }
+        /* .size{
+            font-size: 50px;
+        } */
+        h4,h5{
+            color: blue;
+        }
+        p{
+            background-color: red;
+        }
+        .box{
+            border: 5px solid #000;
+            font-size: 40px;
+            padding: 50px 30px;
+        }
+        .box2{
+            border: 5px solid #000;
+            font-size: 40px;
+            padding: 50px 30px;
+            margin-top: 50px;
+        }
